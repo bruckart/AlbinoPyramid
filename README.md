@@ -5,7 +5,7 @@ This repository contains a single [p5.js](https://p5js.org/) sketch that demonst
 ![AlbinoPyramid](/assets/screencapture.gif)
 
 # Building
-In order to operate this sketch, you must download the following dependencies, and place them in the "libraries" folder so that they are correctly references from the index.html file:
+In order to operate this sketch, you must download the following dependencies, and place them in the "libraries" folder so that they are correctly referenced from the index.html file:
 ```
   <script language="javascript" type="text/javascript" src="libraries/p5.min.js"></script>
   <script language="javascript" type="text/javascript" src="libraries/p5.easycam.js"></script>
